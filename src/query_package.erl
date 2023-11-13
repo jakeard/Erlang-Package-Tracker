@@ -1,11 +1,3 @@
-%%%-------------------------------------------------------------------
-%%% @author some name <me@hostname.local>
-%%% @copyright (C) 2013, some name
-%%% @doc
-%%%
-%%% @end
-%%% Created : 26 May 2013 by some name <me@hostname.local>
-%%%-------------------------------------------------------------------
 -module(query_package).
 
 -behaviour(gen_server).
