@@ -1,19 +1,3 @@
-%%%-------------------------------------------------------------------
-%%% @author Lee Barney  <barney.cit@gmail.com>
-%%% @copyright © 2022, Lee S. Barney
-%%% @reference Licensed under the
-%%% <a href="http://creativecommons.org/licenses/by/4.0/">
-%%% Creative Commons Attribution 4.0 International License</a>.
-%%%
-%%% @doc
-%%% This is a template for supervisors that start up with no defined set of
-%%% OTP behaviors. Behaviors are then added and removed dynamically.
-%%%
-%%%
-%%% @end
-
-%%% Created : 24 October 2022 by Lee Barney <barney.cit@gmail.com>
-%%%-------------------------------------------------------------------
 -module(package_sup).
 -behaviour(supervisor).
 
